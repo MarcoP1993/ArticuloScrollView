@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="texto_encabezado">Encabezado del articulo</string>
+    <string name="texto_subtitulo">Subtitulo del articulo</string>
+    <string name="texto_articulo">
+        telefono: +34 654767673\n
+        web: https://github.com\n
+        correo: asdf@android.com\n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <b>magna aliqua</b>.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint Occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <b>magna aliqua</b>.
+        <br/>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <b>magna aliqua</b>.
+        <br/><br/>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+</resources>
